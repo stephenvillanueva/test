@@ -28,7 +28,7 @@ char letter_d[2] = "d";
 char letter_k[2] = "k";
 char letter_l[2] = "l";
 
-//Results
+//Results another commit
 int result_w;
 int result_a;
 int result_s;
