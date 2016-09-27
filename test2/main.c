@@ -14,7 +14,7 @@
 //**************** Initialising variables *********************
 
 
-//Others
+//Others somethine else
 char name[20];
 char current_main_state[20];
 int loop_counter = 1;
