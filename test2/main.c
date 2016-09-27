@@ -20,7 +20,7 @@ char current_main_state[20];
 int loop_counter = 1;
 char variable[20] = "    ";
 
-//Letters
+//Letters hello world
 char letter_w[2] = "w";
 char letter_a[2] = "a";
 char letter_s[2] = "s";
